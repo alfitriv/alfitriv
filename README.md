@@ -5,6 +5,8 @@
 
 - 👯 Also a mobile lead at [Kumu](https://kumu.ph/)
 
+- 🌱 My current role is product management at **https://www.sourcy.ai/**
+
 - 👨‍💻 Side projects I've worked on [https://www.instagram.com/sheglimmr?igsh=MTQ0cTZpdzdkYjVtbQ==](https://www.instagram.com/sheglimmr?igsh=MTQ0cTZpdzdkYjVtbQ==)
 
 - 📝 Other side projects I've contributed to [https://www.macbartender.com/](https://www.macbartender.com/)
@@ -17,4 +19,4 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
