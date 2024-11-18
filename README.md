@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vania Radmila</h1>
 <h3 align="center">A technology enthusiast from Indonesia</h3>
 
-- 🔭 I was a mobile dev at [GO-MART](https://www.gojek.com/en-id/gomart)
+- 🔭 I was a mobile dev at [GO-JEK](https://www.gojek.com/id-id)
 
 - 👯 Also a mobile lead at [Kumu](https://kumu.ph/)
 
