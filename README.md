@@ -5,7 +5,7 @@
 
 - 👯 Also a mobile lead at [Kumu](https://kumu.ph/)
 
-- 🌱 My current role is product management at **https://www.sourcy.ai/**
+- 🌱 My current role is technology mentor at [Apple Developer Academy](https://developeracademy.apps.binus.ac.id/bali/)
 
 - 👨‍💻 Side projects I've worked on [https://www.instagram.com/sheglimmr?igsh=MTQ0cTZpdzdkYjVtbQ==](https://www.instagram.com/sheglimmr?igsh=MTQ0cTZpdzdkYjVtbQ==)
 
