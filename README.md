@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vania Radmila</h1>
+<h1 align="center">Hi 👋, I'm Mila</h1>
 <h3 align="center">A technology enthusiast from Indonesia</h3>
 
 - 🔭 I was a mobile dev at [GO-JEK](https://www.gojek.com/id-id)
